@@ -4,4 +4,6 @@
 
 ### ~~https://jahnaviprasad.tech/~~ 
 
-### https://jahnaviprasad.live/
+### ~~https://jahnaviprasad.live/~~ 
+
+### https://jahnavi-prasad.github.io/portfolio
